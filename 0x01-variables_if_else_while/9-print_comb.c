@@ -1,12 +1,14 @@
 #include <stdio.h>
 
+
 /**
- * main- Entry point
+* main- Entry point
 * @void: Null value
-*
-* Description: Print numbers from 0 to 9 separated by comma and space
+ *
+ * Description: Print numbers from 0 to 9 separated by comma and space
 * Return: Zero value
  */
+
 int main(void)
 {
 int n;
@@ -18,7 +20,8 @@ if (n != '9')
 {
 putchar(',');
 putchar(' ');
-		}
-	}
+}
+}
 putchar('\n');
-	return (0);
+return (0);
+}
