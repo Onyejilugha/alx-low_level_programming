@@ -1,1 +1,1 @@
-0x04. C - more functions,more nested loops
+3-print_numbers.c
