@@ -2,6 +2,7 @@
 
 /**
  * _isupper - define if a character is uppercase
+ *
  * Description: Prints the alphabet with _putchar
  * @c: charater
  * Return: void
