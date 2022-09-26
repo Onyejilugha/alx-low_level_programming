@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * _strpbrk - The _strpbrk() function locates the first
@@ -30,4 +30,3 @@ char *_strpbrk(char *s, char *accept)
 	return ('\0');
 
 }
-
