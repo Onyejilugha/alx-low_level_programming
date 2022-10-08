@@ -28,9 +28,10 @@ int *array_range(int min, int max)
 
 			j++;
 
-		}
-		return (block);
-	{
+			{
+				return (block);
+
+			}
 		else
 			return (NULL);
 
