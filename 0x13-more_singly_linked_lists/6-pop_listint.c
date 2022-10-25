@@ -6,7 +6,6 @@
  *
  * Return: the deleted node data
  */
-
 int pop_listint(listint_t **head)
 {
 	listint_t *popped;
