@@ -3,9 +3,9 @@
 /**
  * main - prints string "_putchar"
  *
- *
  * Return: Always return 0
  */
+
 int main(void)
 {
 	_putchar('_');
@@ -29,4 +29,3 @@ int main(void)
 	return (0);
 
 }
-
